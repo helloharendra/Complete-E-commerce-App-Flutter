@@ -1,7 +1,7 @@
 
 # E-commerce Complete Flutter UI
 
-### Status- in-progress
+### Status: in-progress
 
 ![Flutter](https://img.shields.io/badge/Flutter-Framework-blue) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue)
 
