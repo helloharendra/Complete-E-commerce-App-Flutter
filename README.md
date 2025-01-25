@@ -1,6 +1,8 @@
 
 # E-commerce Complete Flutter UI
 
+## Status- in-progress
+
 ![Flutter](https://img.shields.io/badge/Flutter-Framework-blue) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue)
 
 Welcome to the E-commerce Complete Flutter UI repository! This project provides a clean and modern UI template for building an e-commerce application using Flutter. It includes essential screens and features to kickstart your e-commerce app development.
@@ -81,7 +83,3 @@ Stay connected:
 
 This project is licensed under the [MIT License](LICENSE).  
 
----
-
-Let me know if you need help customizing this further! 😊
- 
