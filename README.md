@@ -1,7 +1,7 @@
 
 # E-commerce Complete Flutter UI
 
-## Status- in-progress
+### Status- in-progress
 
 ![Flutter](https://img.shields.io/badge/Flutter-Framework-blue) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue)
 
@@ -28,9 +28,9 @@ Welcome to the E-commerce Complete Flutter UI repository! This project provides 
 
 ## 📸 Screenshots  
 
-| Home Screen | Product Listing | Cart Screen |
+| Login Screen | Home Listing | Orders Screen |
 |-------------|-----------------|-------------|
-| ![Home](https://via.placeholder.com/150) | ![Listing](https://via.placeholder.com/150) | ![Cart](https://via.placeholder.com/150) |
+![Image](https://github.com/user-attachments/assets/96032e45-5cf7-48bf-a140-c8dd3eeb9fe9) | ![Image](https://github.com/user-attachments/assets/8d359bb9-e42c-4970-897b-59778d7fdff6) | ![Image](https://github.com/user-attachments/assets/8d4e77a0-60b1-496d-918b-73c31df5a11b) | ![Image](https://github.com/user-attachments/assets/a075544d-dfa8-4a5e-b0d6-1998b431d2c9)
 
 ---
 
