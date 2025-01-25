@@ -1,11 +1,11 @@
 
-# E-commerce Complete Flutter UI
+# Complete-E-commerce-App-Flutter
 
 ### Status: in-progress
 
 ![Flutter](https://img.shields.io/badge/Flutter-Framework-blue) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue)
 
-Welcome to the E-commerce Complete Flutter UI repository! This project provides a clean and modern UI template for building an e-commerce application using Flutter. It includes essential screens and features to kickstart your e-commerce app development.
+Welcome to the Complete-E-commerce-App-Flutter repository! This project provides a clean and modern UI template for building an e-commerce application using Flutter. It includes essential screens and features to kickstart your e-commerce app development.
 
 ---
 
@@ -40,8 +40,8 @@ Follow these steps to get a local copy up and running:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/helloharendra/E-commerce-Complete-Flutter-UI-.git
-   cd E-commerce-Complete-Flutter-UI-
+   git clone https://github.com/helloharendra/Complete-E-commerce-App-Flutter-.git
+   cd Complete-E-commerce-App-Flutter-
    ```
 
 2. **Install Dependencies**:
@@ -70,7 +70,7 @@ Contributions are always welcome!
 
 ## 🙌 Support  
 
-If you find this project useful, please consider giving it a ⭐️ on [GitHub](https://github.com/helloharendra/E-commerce-Complete-Flutter-UI-).  
+If you find this project useful, please consider giving it a ⭐️ on [GitHub](https://github.com/helloharendra/Complete-E-commerce-App-Flutter-).  
 
 Stay connected:  
 - **GitHub**: [@helloharendra](https://github.com/helloharendra)  
