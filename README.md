@@ -1,10 +1,5 @@
-# E-commerce-Complete-Flutter-UI-master
 
-Here’s a professional and detailed `README.md` file for your GitHub repository:
-
----
-
-# E-commerce Complete Flutter UI Master  
+# E-commerce Complete Flutter UI
 
 ![Flutter](https://img.shields.io/badge/Flutter-Framework-blue) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue)
 
