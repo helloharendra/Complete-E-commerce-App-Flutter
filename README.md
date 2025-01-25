@@ -72,7 +72,7 @@ If you find this project useful, please consider giving it a ⭐️ on [GitHub](
 
 Stay connected:  
 - **GitHub**: [@helloharendra](https://github.com/helloharendra)  
-- **Instagram**: [@helloharendra](https://instagram.com/helloharendra)  
+- **Instagram**: [@helloharendra](https://instagram.com/helloharendra.yt)  
 - **YouTube**: [youtube.com/helloharendra](https://youtube.com/helloharendra)  
 
 ---
