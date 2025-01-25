@@ -1,10 +1,8 @@
 import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:url_launcher/url_launcher.dart';
-
 import '../constants.dart';
 
 class BuyFullKit extends StatefulWidget {
@@ -19,7 +17,7 @@ class BuyFullKit extends StatefulWidget {
 class _BuyFullKitState extends State<BuyFullKit> {
   bool _isCopied = false;
   final Uri _url = Uri.parse(
-      'https://app.gumroad.com/checkout?_gl=1*1j1owy*_ga*Nzc0MTA1NTYwLjE3MjAwMTA3MzM.*_ga_6LJN6D94N6*MTcyMDA0MjQzMC41LjEuMTcyMDA0MjQzMS4wLjAuMA..&product=uxznc&option=B3wWhE6QH46cfm31C7jEmQ%3D%3D&quantity=1&referrer=App');
+      'https://github.com/helloharendra/E-commerce-Complete-Flutter-UI-master');
   Future<void> buyLink() async {
     if (!await launchUrl(_url)) {
       throw Exception('Could not launch $_url');
@@ -106,7 +104,13 @@ class _BuyFullKitState extends State<BuyFullKit> {
                       ),
                       const SizedBox(height: defaultPadding),
                       const Text(
-                        "Thank you for using The Flutter Way shop template. You're currently using the free version. Please get the full kit to use this screen.",
+                        '''Thank you for using https://github.com/helloharendra/E-commerce-Complete-Flutter-UI-master
+You're currently using the free version. To unlock the full kit with advanced features, consider upgrading.
+
+Stay Connected:
+Follow me on GitHub: github.com/helloharendra
+Follow me on Instagram: instagram.com/helloharendra.yt
+Subscribe on YouTube: youtube.com/helloharendra''',
                       ),
                       const SizedBox(height: defaultPadding),
                       Row(
@@ -116,7 +120,7 @@ class _BuyFullKitState extends State<BuyFullKit> {
                               onPressed: () async {
                                 await Clipboard.setData(const ClipboardData(
                                         text:
-                                            "https://app.gumroad.com/checkout?_gl=1*1j1owy*_ga*Nzc0MTA1NTYwLjE3MjAwMTA3MzM.*_ga_6LJN6D94N6*MTcyMDA0MjQzMC41LjEuMTcyMDA0MjQzMS4wLjAuMA..&product=uxznc&option=B3wWhE6QH46cfm31C7jEmQ%3D%3D&quantity=1&referrer=App"))
+                                            "https://github.com/helloharendra/E-commerce-Complete-Flutter-UI-master"))
                                     .then((value) {
                                   setState(() {
                                     _isCopied = true;
