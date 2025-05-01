@@ -68,18 +68,28 @@ Contributions are always welcome!
 
 ---
 
-## 🙌 Support  
-
-If you find this project useful, please consider giving it a ⭐️ on [GitHub](https://github.com/helloharendra/Complete-E-commerce-App-Flutter-).  
-
-Stay connected:  
-- **GitHub**: [@helloharendra](https://github.com/helloharendra)  
-- **Instagram**: [@helloharendra](https://instagram.com/helloharendra.yt)  
-- **YouTube**: [youtube.com/helloharendra](https://youtube.com/helloharendra)  
-
----
 
 ## 📜 License  
 
 This project is licensed under the [MIT License](LICENSE).  
+
+
+---
+
+## 💼 Hire Me & Support My Work
+
+### 🤝 Available for Projects
+I'm open to **Flutter development**, **API integrations**, and **consulting work**.
+
+📱 **Phone/WhatsApp**: [+91 7991327022](https://wa.me/917991327022)  
+📧 **Email**: [harendraprajapati72@gmail.com](mailto:harendraprajapati72@gmail.com)  
+🌐 **Website**: [nayaproyog.com](https://nayaproyog.com)  
+💻 **Portfolio**: [github.helloharendra.io](https://github.helloharendra.io)  
+
+### ☕ Buy Me a Coffee
+If you appreciate my work, consider supporting me:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/helloharendra)
+
+
 
